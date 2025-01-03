@@ -50,6 +50,7 @@ h3 {
 
 .main-content {
   border: 1px solid;
+  border-radius: 10px;
   width: 75%;
   margin: 2% 10%;
   background-color: rgb(252, 243, 234);
@@ -63,6 +64,7 @@ h3 {
 
 .main-content section {
   border: 1px solid black;
+  border-radius: 10px;
   background-color: white;
   min-height: 300px;
   margin-bottom: 20px;
@@ -120,6 +122,7 @@ h3 {
 input,
 label {
   width: 175%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #message {
@@ -127,3 +130,4 @@ label {
   height: 150px;
   resize: none;
 }
+
